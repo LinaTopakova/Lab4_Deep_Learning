@@ -20,8 +20,8 @@
 ## Установка и запуск
 
 ### 1. Клонирование репозитория
-    git clone https://github.com/polina-topakova/Lab4_Time_Series.git
-    cd Lab4_Time_Series
+    git clone https://github.com/LinaTopakova/Lab4_Deep_Learning.git
+    cd Lab4_Deep_Learning
 
 ### 2. Создание и активация виртуального окружения
     python3.12 -m venv .venv
